@@ -84,7 +84,49 @@ Added Features:
   - Automated by clicking on each element and then opens the next element
 
 # Day 8:
+**DataFrame:**
 
+- Dataframe is something like a excel spreadsheet or a SQL database. Here the data are arranged in a 2 dimensional structure so that it can be manipulated easily.
+- One of the most popular dataframe related library is Pandas in Python
+- Dataframes are used in cleaning, arranging, and interpreting the data in a much easier way.
+- Pandas is one of the way to achieve this
+
+**Data Cleaning:**
+
+- Process of correcting, removing errors and inconsistencies in the dataset
+
+Some of them are:
+
+- Missing data → filling in the data with their Mean or Mode
+- Outliers → Identifying and removing of the outliers which lie outside of the dataset’s boundaries by using functions
+- Normalization → setting the data according to certain formats can make the interpretation of the data easier and accurate
+- Duplicates → removing of the redundant data can help in the processing speeds of the data
+
+This can help in improving:
+
+- Accuracy
+- Reliability
+- Efficiency
+
+**Data Processing:**
+
+Data processing is converting raw data into meaningful information using certain operations.
+
+Their stages are:
+
+- Data collection
+- Data preparation
+- Data input
+- Processing
+- Data output/interpretation
+
+**EDA:**
+
+EDA Stands for **E**xploratory **D**ata **A**nalysis. It is used to summarize the given dataset in a visual way. When data is presented visually, more information can be derived, leading to a more detailed view on the data. This is done using EDA. EDA is done using a few libraries and also a few apps. Some of them are
+
+- Python libraries such as Matplotlib
+- Tableau
+- Microsoft PowerBi Analytics
 
   
 
