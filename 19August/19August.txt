@@ -1,0 +1,11 @@
+Numpy Basics:
+
+- How to initialize a numpy array
+- basic functions on numpy
+- mathematical functions on numpy
+- append/sort/insert/delete
+
+Image Scraping:
+
+- Scraped a F1 related Website
+- Scraped a Premier League website to scour images

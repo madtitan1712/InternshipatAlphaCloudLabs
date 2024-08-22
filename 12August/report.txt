@@ -1,0 +1,2 @@
+Refreshed Python 
+A simple python scraper that could Scrape a sample scraping website (saved as main.py)

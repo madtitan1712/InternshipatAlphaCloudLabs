@@ -1,0 +1,24 @@
+{
+    "cars": [
+        {
+            "name": "Civic",
+            "make": "Honda",
+            "year": 2020
+        },
+        {
+            "name": "Supra",
+            "make": "Toyota",
+            "year": 2020
+        },
+        {
+            "name": "RX-7",
+            "make": "Mazda",
+            "year": 2020
+        },
+        {
+            "name": "W14",
+            "make": "Mercedes",
+            "year": "2014"
+        }
+    ]
+}

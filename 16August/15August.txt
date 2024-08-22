@@ -1,0 +1,13 @@
+Wrote 3 scripts to
+
+- Extract the F1 driver stadings from the Website
+- Extract the F1 Race Results from a previous season
+- Scrape the top 250 movies list from IMDB
+
+Learning objectives:
+
+- Pandas/Numpy
+- CSV module
+- Image Scraping basics
+
+Learnt to scrape the main post images from Instagram. If the image is a carousel, then the script needs how many images are there in the carousel in order to scrape it

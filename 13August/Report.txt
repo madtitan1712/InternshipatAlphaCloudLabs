@@ -1,0 +1,6 @@
+Learnt:
+beautifulsoup 
+XML
+Scrapy(Overview)
+Python refreshment 
+Scraping Wikipedia Program (Saved as Scraper.py)
