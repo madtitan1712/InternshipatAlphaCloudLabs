@@ -1,0 +1,9 @@
+Writing a script to scrape data from google on sports schedules.
+
+This program uses selenium to target webelements and extract information from them.
+
+Numpy Basics:
+
+Open Google and search for the given sport nfl
+then navigate to the table with the schedule
+then click on it and scrape the team names and their dates

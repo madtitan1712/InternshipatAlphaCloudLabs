@@ -1,0 +1,7 @@
+The script of scraping the data from google on sports schedules was improved.
+
+Added Features:
+
+Can open every single match data and collect the venue of the match
+Used Selenium to automate the feature
+Automated by clicking on each element and then opens the next element

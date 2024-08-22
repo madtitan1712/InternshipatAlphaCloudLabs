@@ -1,0 +1,7 @@
+Selenium Webdriver:
+
+An API, that can interact and control browsers.
+
+Selenium can manipulate both browsers and automate them. This makes them an ideal choice for testing websites. All elements can be found or be manipulated using their attributes like - Xpath - ID - Name - Class_name - CSS ID
+
+Xpath is something that is used to locate objects on the DOM. Here everything is like an tree based structure, so you can call the children and parent objects easily.
