@@ -1,2 +1,101 @@
-X=['Tom Benson Hall of Fame Stadium', 'MetLife Stadium', 'Gillette Stadium', 'Hard Rock Stadium', 'Acrisure Stadium', 'M&T Bank Stadium', 'MetLife Stadium', 'Bills Stadium', 'U.S. Bank Stadium', 'FirstEnergy Stadium', 'TIAA Bank Field', 'Paul Brown Stadium', 'Nissan Stadium', 'SoFi Stadium', 'University of Phoenix Stadium', 'Lucas Oil Stadium', 'SoFi Stadium', 'Gillette Stadium', 'M&T Bank Stadium', 'Soldier Field', 'NRG Stadium', 'Arrowhead Stadium', 'FirstEnergy Stadium', 'Nissan Stadium', 'Acrisure Stadium', 'Bank of America Stadium', 'Hard Rock Stadium', 'Lucas Oil Stadium', 'SoFi Stadium', 'TIAA Bank Field', 'Allegiant Stadium', 'Empower Field at Mile High', "Levi's Stadium", 'Paul Brown Stadium', 'Arrowhead Stadium', 'Mercedes-Benz Stadium', 'Raymond James Stadium', 'Allegiant Stadium', 'Lincoln Financial Field', 'Lambeau Field', 'Ford Field', 'NRG Stadium', 'Bills Stadium', 'AT&T Stadium', 'MetLife Stadium', 'Lumen Field', 'Mercedes-Benz Superdome', 'Empower Field at Mile High', 'FedExField', 'Arrowhead Stadium', 'Corinthians Arena', 'Mercedes-Benz Superdome', 'MetLife Stadium', 'Paul Brown Stadium', 'Mercedes-Benz Stadium', 'Lucas Oil Stadium', 'Bills Stadium', 'Soldier Field', 'Hard Rock Stadium', 'Lumen Field', 'SoFi Stadium', 'FirstEnergy Stadium', 'Raymond James Stadium', 'Ford Field', "Levi's Stadium", 'Hard Rock Stadium', 'U.S. Bank Stadium', 'Gillette Stadium', 'FedExField', 'Bank of America Stadium', 'AT&T Stadium', 'Lambeau Field', 'TIAA Bank Field', 'Nissan Stadium', 'Ford Field', 'M&T Bank Stadium', 'University of Phoenix Stadium', 'Arrowhead Stadium', 'Empower Field at Mile High', 'NRG Stadium', 'Lincoln Financial Field', 'MetLife Stadium', 'FirstEnergy Stadium', 'Mercedes-Benz Superdome', 'U.S. Bank Stadium', 'Raymond James Stadium', 'Nissan Stadium', 'Lucas Oil Stadium', 'Acrisure Stadium', 'Lumen Field', 'Allegiant Stadium', 'SoFi Stadium', 'University of Phoenix Stadium', 'AT&T Stadium', 'Mercedes-Benz Stadium', 'Bills Stadium', 'Paul Brown Stadium', 'MetLife Stadium', 'Bank of America Stadium', 'Mercedes-Benz Stadium', 'NRG Stadium', 'MetLife Stadium', 'Lambeau Field', 'Lucas Oil Stadium', 'Soldier Field', 'Raymond James Stadium', "Levi's Stadium", 'University of Phoenix Stadium', 'SoFi Stadium', 'Allegiant Stadium', 'M&T Bank Stadium', 'Hard Rock Stadium', 'Ford Field', 'Mercedes-Benz Stadium', 'Northumberland Development Project', 'Soldier Field', 'FedExField', 'Gillette Stadium', 'TIAA Bank Field', 'NRG Stadium', 'Paul Brown Stadium', 'Empower Field at Mile High', "Levi's Stadium", 'Lumen Field', 'SoFi Stadium', 'Acrisure Stadium', 'Arrowhead Stadium', 'Lumen Field', 'Northumberland Development Project', 'Mercedes-Benz Superdome', 'M&T Bank Stadium', 'Lambeau Field', 'Nissan Stadium', 'Gillette Stadium', 'Lincoln Financial Field', 'Empower Field at Mile High', 'Allegiant Stadium', 'Bank of America Stadium', 'AT&T Stadium', 'MetLife Stadium', 'MetLife Stadium', 'Mercedes-Benz Superdome', 'Wembley Stadium', 'U.S. Bank Stadium', 'Bills Stadium', 'Lucas Oil Stadium', 'Mercedes-Benz Stadium', 'Lambeau Field', 'FirstEnergy Stadium', 'MetLife Stadium', 'SoFi Stadium', 'FedExField', "Levi's Stadium", 'Acrisure Stadium', 'Raymond James Stadium', 'University of Phoenix Stadium', 'SoFi Stadium', 'FedExField', 'TIAA Bank Field', 'Hard Rock Stadium', 'Gillette Stadium', 'FirstEnergy Stadium', 'NRG Stadium', 'Ford Field', 'Raymond James Stadium', 'SoFi Stadium', 'Lumen Field', 'Allegiant Stadium', 'Empower Field at Mile High', 'Paul Brown Stadium', "Levi's Stadium", 'Acrisure Stadium', 'MetLife Stadium', 'Bank of America Stadium', 'MetLife Stadium', 'Bills Stadium', 'FirstEnergy Stadium', 'Nissan Stadium', 'U.S. Bank Stadium', 'Mercedes-Benz Stadium', 'Paul Brown Stadium', 'M&T Bank Stadium', 'University of Phoenix Stadium', 'Lumen Field', 'Lambeau Field', 'Lincoln Financial Field', 'Arrowhead Stadium', 'M&T Bank Stadium', 'Allianz Arena', 'Soldier Field', 'Raymond James Stadium', 'Arrowhead Stadium', 'Lucas Oil Stadium', 'FedExField', 'TIAA Bank Field', 'Mercedes-Benz Superdome', 'SoFi Stadium', 'University of Phoenix Stadium', 'AT&T Stadium', 'NRG Stadium', 'SoFi Stadium', 'Lincoln Financial Field', 'Hard Rock Stadium', 'Mercedes-Benz Superdome', 'Nissan Stadium', 'Soldier Field', 'Ford Field', 'Gillette Stadium', 'Acrisure Stadium', "Levi's Stadium", 'Empower Field at Mile High', 'Bills Stadium', 'SoFi Stadium', 'MetLife Stadium', 'AT&T Stadium', 'FirstEnergy Stadium', 'NRG Stadium', 'Soldier Field', 'FedExField', 'Hard Rock Stadium', 'Bank of America Stadium', 'MetLife Stadium', 'Lucas Oil Stadium', 'Allegiant Stadium', 'Lumen Field', 'Lambeau Field', 'SoFi Stadium', 'SoFi Stadium', 'Ford Field', 'AT&T Stadium', 'Lambeau Field', 'Arrowhead Stadium', 'TIAA Bank Field', 'Gillette Stadium', 'Mercedes-Benz Stadium', 'MetLife Stadium', 'FedExField', 'Paul Brown Stadium', 'U.S. Bank Stadium', 'Mercedes-Benz Superdome', 'Bank of America Stadium', 'M&T Bank Stadium', 'Bills Stadium', 'Empower Field at Mile High', 'Ford Field', 'Acrisure Stadium', 'MetLife Stadium', 'Hard Rock Stadium', 'Nissan Stadium', 'U.S. Bank Stadium', 'Lincoln Financial Field', 'Raymond James Stadium', 'University of Phoenix Stadium', "Levi's Stadium", 'SoFi Stadium', 'Arrowhead Stadium', 'AT&T Stadium', "Levi's Stadium", 'Mercedes-Benz Superdome', 'FirstEnergy Stadium', 'Nissan Stadium', 'NRG Stadium', 'MetLife Stadium', 'TIAA Bank Field', 'Bank of America Stadium', 'SoFi Stadium', 'Empower Field at Mile High', 'University of Phoenix Stadium', 'Ford Field', 'Lincoln Financial Field', 'Lumen Field', 'U.S. Bank Stadium', 'Allegiant Stadium', 'Paul Brown Stadium', 'Arrowhead Stadium', 'M&T Bank Stadium', 'Bills Stadium', 'Mercedes-Benz Stadium', 'Soldier Field', 'Bank of America Stadium', 'MetLife Stadium', 'FedExField', 'Lucas Oil Stadium', 'SoFi Stadium', 'Lumen Field', 'Allegiant Stadium', 'Hard Rock Stadium', 'AT&T Stadium', 'Lambeau Field', 'Acrisure Stadium', 'NRG Stadium', 'Soldier Field', 'FedExField', 'Gillette Stadium', 'Paul Brown Stadium', 'MetLife Stadium', 'SoFi Stadium', 'Raymond James Stadium', 'Bills Stadium', 'U.S. Bank Stadium', 'Mercedes-Benz Superdome', 'TIAA Bank Field', 'Lincoln Financial Field', 'FirstEnergy Stadium', "Levi's Stadium", 'M&T Bank Stadium', 'Allegiant Stadium', 'Acrisure Stadium', 'University of Phoenix Stadium', 'Mercedes-Benz Stadium', 'Empower Field at Mile High', 'SoFi Stadium', 'Nissan Stadium', 'Lincoln Financial Field', 'Lucas Oil Stadium', 'Ford Field', 'AT&T Stadium', 'Lambeau Field', 'MetLife Stadium', 'Raymond James Stadium', 'Gillette Stadium', 'Mercedes-Benz Superdome', 'Empower Field at Mile High', 'Allegiant Stadium', 'TIAA Bank Field', 'SoFi Stadium', 'Lucas Oil Stadium']
-print(len(X))
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
+import time
+import pandas as pd
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.common.exceptions import NoSuchElementException
+
+def scroll_within_element(driver, element, delay=2):
+    driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight;", element)
+    time.sleep(delay)
+
+def load_all_content_within_element(driver, element, max_scrolls=10, delay=2):
+    last_height = driver.execute_script("return arguments[0].scrollHeight;", element)
+    scroll_count = 0
+    
+    while scroll_count < max_scrolls:
+        scroll_within_element(driver, element, delay)
+        new_height = driver.execute_script("return arguments[0].scrollHeight;", element)
+        
+        if new_height == last_height:
+            break
+        
+        last_height = new_height
+        scroll_count += 1
+
+driver = webdriver.Chrome()
+driver.get('https://google.co.in')
+x = driver.find_element(By.TAG_NAME, "textarea")
+x.click()
+x.send_keys("nfl")
+x.send_keys(Keys.ENTER)
+
+y = driver.find_element(By.XPATH, '//*[@id="sports-app"]/div/div[4]/div[2]/div/g-immersive-footer/g-fab')
+y.click()
+time.sleep(2)
+
+l = driver.find_element(By.XPATH, "//div[@class='JNVNDd imso-fpm']")
+wait = WebDriverWait(driver, 20)
+load_all_content_within_element(driver, l)
+
+n = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class,'ellipsisize')]//span")))
+date = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//div[@class='imspo_mt__cmd']//span | //div[@class='imspo_mt__pm-inf imspo_mt__pm-infc imspo_mt__date']")))
+weeklist = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//div[@class='GVj7ae imso-medium-font qJnhT imso-ani']")))
+gamelist=wait.until(EC.presence_of_all_elements_located((By.XPATH,"//div[@class='imso-hov']")))
+namelist = [i.text for i in n if i.text!='']
+datelist = [i.text for i in date if i.text != '']
+weeklistz = [i.text for i in weeklist][:-4] 
+datelist=datelist[:-13]
+# Combine names and dates directly into a DataFrame
+matches = []
+namez=[]
+for i in range(0, len(namelist) - 1, 2):
+    namez.append([namelist[i], namelist[i + 1]])
+#collecting all Venue names(This takes up almost 25 minutes)
+for i in gamelist:
+    try:
+        actions = ActionChains(driver)
+        actions.move_to_element_with_offset(i, 5, 5).click().perform()
+        
+        
+        time.sleep(2)  
+        
+        try:
+            venueelem = i.find_element(By.XPATH,"//div[@class='imspo_mff__mff-fs']/div[@class='imspo_mff__mff-fl']//span[@class='imspo_mff__mff-fv imso-loa']")
+            if venueelem.text:
+                matches.append(venueelem.text)
+            else:
+                print("Venue information is not available for this match.")
+        except NoSuchElementException:
+            print("Venue element not found.")
+
+    except Exception as e:
+        print(f"Error: {e}")
+    finally:
+        driver.back()
+print(len(matches),len(namez),len(datelist))
+# Create the DataFrame
+df = pd.DataFrame(namez, columns=["Home", "Away"])
+df=df.dropna()
+df["Date"] = datelist
+df["Venue"]=matches[:-6] 
+
+# Insert week numbers
+result_rows = []
+week_index = 0
+
+for i in range(len(df)):
+    if i == 0 or (i % 16 == 1 and i > 0):
+        result_rows.append([weeklistz[week_index], '', '',''])
+        week_index += 1
+        week_index = min(week_index, len(weeklistz) - 1)
+    result_rows.append(df.iloc[i].tolist())
+
+df_result = pd.DataFrame(result_rows, columns=['Home', 'Away', 'Date','Venue'])
+# Save the DataFrame directly to a CSV file
+df_result.to_csv("result.csv", index=False)
+
+print(df_result)
