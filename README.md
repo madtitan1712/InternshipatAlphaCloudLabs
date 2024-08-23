@@ -130,4 +130,5 @@ EDA Stands for **E**xploratory **D**ata **A**nalysis. It is used to summarize th
 
 # Day 9:
 
+Have Learnt more on the Pandas library. Solved 15 leetcode problems on "introduction to pandas". Completed the Leetcode Learning plan for the pandas module and earned a badge.
 
